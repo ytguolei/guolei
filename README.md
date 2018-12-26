@@ -16,3 +16,5 @@ http://www.cnblogs.com/dalianmao890710/p/9241752.html
 https://docs.jboss.org/hibernate/orm/5.3/userguide/html_single/Hibernate_User_Guide.html#sql-query-parameters
 
 -Xms1024m -Xmx2024m -XX:PermSize=512m -XX:MaxPermSize=512m
+
+https://java.quanke.name/
